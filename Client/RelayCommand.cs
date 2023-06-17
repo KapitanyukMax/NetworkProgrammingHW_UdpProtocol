@@ -1,7 +1,6 @@
-﻿using System;
-using System.Windows.Input;
+﻿using System.Windows.Input;
 
-namespace RelayCommandLibrary
+namespace Client
 {
     public class RelayCommand : ICommand
     {
